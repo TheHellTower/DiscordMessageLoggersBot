@@ -1,0 +1,26 @@
+{
+  "name": "discordmessagesloggerbot",
+  "version": "1.0.0",
+  "description": "Test",
+  "main": "Main.js",
+  "scripts": {
+    "start": "node Main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheHellTower/DiscordMessageLoggersBot.git"
+  },
+  "keywords": [
+    "DiscordMessageLoggersBot",
+    "TheHellTower"
+  ],
+  "author": "TheHellTower",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TheHellTower/DiscordMessageLoggersBot/issues"
+  },
+  "homepage": "https://github.com/TheHellTower/DiscordMessageLoggersBot#readme",
+  "dependencies": {
+    "discord.js": "^14.7.1"
+  }
+}
