@@ -6,8 +6,7 @@ It does log the messages that are deleted or edited in a Discord server (only th
 
 ## 🎥 Preview
 
-[YouTube video](https://www.youtube.com/watch?v=13L5_kpWlNQ)
-![](https://i.imgur.com/MBvwxLQ.png)
+[YouTube video](https://www.youtube.com/watch?v=13L5_kpWlNQ)<br>![](https://i.imgur.com/MBvwxLQ.png)
 
 ## 🌟 Stars
 
