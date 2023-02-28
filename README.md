@@ -1,5 +1,7 @@
 # DiscordMessageLoggersBot
 
+[![CodeFactor](https://www.codefactor.io/repository/github/thehelltower/discordmessageloggersbot/badge)](https://www.codefactor.io/repository/github/thehelltower/discordmessageloggersbot)
+
 ## 📜 What it does ?
 
 It does log the messages that are deleted or edited in a Discord server (only the messages that are sent after the bot being launched)
